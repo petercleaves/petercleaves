@@ -1,8 +1,8 @@
 
 ```
 Hi there 👋 
-🔭 I’m currently working as a Senior Systems Administrator, mainly focusing on Azure Cloud, PowerShell
-🌱 I’m currently learning about Azure DevOps / Docker / Ansible 
+🔭 I’m currently working as a Senior Support Engineer
+🌱 I’m currently learning about Kubernetes / DevOps / Azure / AWS 
 📫 How to reach me: peter.cleaves@gmail.com
-🤔 2022 goals: Complete AZ-400 Azure DevOps cert
+🤔 2023 goals: Study Kubernetes and OpenShift
 ```
